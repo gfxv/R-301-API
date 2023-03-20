@@ -51,7 +51,7 @@ OPTICS = [
     "1x Holo",
     "1x-2x Variable Holo",
     "2x HCOG \"Bruiser\"",
-    "3x HCOG Ranger.svg 3x HCOG \"Ranger\"",
+    "3x HCOG \"Ranger\"",
     "2x-4x Variable AOG"
 
 ]
